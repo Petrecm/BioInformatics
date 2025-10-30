@@ -1,0 +1,40 @@
+Prompt:
+
+I analyzed the codon and amino acid frequencies of two viral genomes: SARS-CoV-2 (COVID-19) and Influenza A.
+For SARS-CoV-2, the three most common amino acids were Leucine, Serine, and Threonine, while for Influenza A they were Arginine, Lysine, and Serine.
+Based on general human nutrition knowledge, please explain which common foods or food groups are usually low in each of these amino acids and which are rich in them.
+Keep your answer clear and evidence-based, using everyday food examples.
+
+AI Response:
+
+SARS-CoV-2 dominant amino acids: Leucine, Serine, Threonine
+
+Leucine (Leu) – This essential amino acid is most abundant in high-protein foods.
+• Foods low in leucine: fruits, refined grains, sugary snacks, and oils, which contain almost no protein.
+• Foods rich in leucine: lean meats (chicken, beef, turkey), fish (tuna, salmon), eggs, milk, yogurt, cheese, lentils, and soybeans.
+
+Serine (Ser) – Found in many proteins, but absent from fat- or sugar-based foods.
+• Foods low in serine: fruit juices, soft drinks, sweets, and refined cereals.
+• Foods rich in serine: soy products, eggs, fish, poultry, nuts, and seeds.
+
+Threonine (Thr) – An essential amino acid important for collagen and muscle tissue.
+• Foods low in threonine: most fruits, refined carbohydrates, sweets, and plant oils.
+• Foods rich in threonine: cottage cheese, pork, chicken, fish, lentils, and sesame seeds.
+
+Influenza A dominant amino acids: Arginine, Lysine, Serine
+
+Arginine (Arg) – Plays a key role in immune and vascular health.
+• Foods low in arginine: dairy products, most fruits, and refined grains.
+• Foods rich in arginine: pumpkin seeds, peanuts, walnuts, turkey, pork, chickpeas, and lentils.
+
+Lysine (Lys) – Essential for tissue repair and calcium absorption.
+• Foods low in lysine: cereals (wheat, rice, corn), processed bakery products, and gelatin-based desserts.
+• Foods rich in lysine: eggs, chicken, beef, cod, tofu, beans, and peas.
+
+Serine (Ser) – Common to both viruses’ top amino acids, highlighting its general importance.
+• Foods low in serine: sugary foods, refined flour, and drinks with no protein.
+• Foods rich in serine: eggs, soy, fish, poultry, and legumes.
+
+Summary:
+In general, low-protein foods such as fruits, refined grains, sweets, and oils tend to lack these amino acids, while protein-rich foods — meat, fish, eggs, dairy, soy, legumes, and seeds — provide abundant amounts.
+A balanced, high-protein diet naturally covers all six of these amino acids.
