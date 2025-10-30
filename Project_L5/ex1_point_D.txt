@@ -1,0 +1,20 @@
+D) Discussion – Main Problem
+
+Reconstructing the original DNA sequence from random short fragments is very difficult.
+The main issue is that many small fragments can overlap in multiple possible ways.
+DNA often contains repetitive or similar regions, so a short overlap (like 10 bases)
+can appear several times by coincidence. This causes the algorithm to combine
+fragments incorrectly or leave gaps in the final sequence.
+
+Because the samples are random, some regions might not be covered at all,
+while others are covered too many times, making it hard to find the correct order.
+The algorithm used here is very basic and merges fragments greedily without checking
+for consistency or errors.
+
+In real genome assembly, more advanced algorithms are used:
+- **De Bruijn graphs** (based on k-mers) to handle repeats more systematically.
+- **Overlap–Layout–Consensus (OLC)** graphs for long-read data.
+- **Error correction** and **coverage analysis** to detect and fix misassemblies.
+
+So the main problem is that short random reads and repetitive DNA make it impossible
+for a simple algorithm to rebuild the correct sequence accurately.

@@ -1,0 +1,13 @@
+D) Discussion
+
+All ten viral genomes were assembled in ~13.6–14.0 ms, so the points cluster
+closely. The small differences mainly come from sequence composition and the
+random reads we sample. Higher GC% often brings more stable/repetitive motifs,
+which can create extra candidate overlaps and add a bit of work (e.g., V5/V6).
+Lower GC% or less repetitive regions tend to assemble slightly faster.
+
+GC% alone doesn’t fully predict time (see V4: high GC but still fast), so the
+internal structure (repeats, low-complexity runs, palindromes) matters more
+than raw GC%. Our overlap≥10, greedy assembler is simple and ignores global
+consistency, so tiny timing shifts also come from random coverage and CPU
+jitter. Overall, for short 1–3 kb viral genomes, GC% has only a minor effect.
